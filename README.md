@@ -20,7 +20,9 @@ Image for reference:
 
 ## Camera Installation
 
-The N2K network has limited data bandwidth, and therefore, it does not support streaming video content. To connect Squalo AI, we recommend the network cable from Phoenix Contact part number 1407349 that uses the connector M8  (Coding: A / IP67) 
+The N2K network has limited data bandwidth, and therefore, it does not support streaming video content. To connect Squalo AI, we recommend the network cable from Phoenix Contact part number 1407349 that uses the connector M8  (Coding: A / IP67).
+
+To manage the functionality of your camera, M12 connectors designed for N2K networks can be utilized to turn the device on and off. These connectors are widely available and offer user-friendly connectivity to the network. 
 
 ## Camera Enclosure Maintenance
 
