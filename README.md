@@ -12,6 +12,12 @@ The primary objective of this project is to refine the system's training to reco
 
 To address these challenges, an object detection system based on faster regions with convolutional neural networks has been proposed to detect shark species in real-time. The ResNet50 deep architecture serves as the feature extractor for model training. The developed shark detector has demonstrated impressive performance, with average scores of precision (0.82), recall (0.78), and accuracy (0.85) on experimental image and video datasets.
 
+## Camera Enclosure Proposal
+
+Image for reference: 
+
+![TIX402-CAM-Angled](https://github.com/ajsb85/squalo.ai/assets/663460/ade02e4b-abb7-4650-836c-4e168a5ac803)
+
 ## Camera Enclosure Maintenance
 
 Maintaining the locking nut securely fastened is imperative; therefore, it is recommended to carry out periodic inspections. We advise a monthly assessment of the camera module and cable connections to ensure their optimal condition. The glass lens can be kept clean using a plastic scraper or a soft brush, while abrasive cloths or cleaning agents should be avoided, as they could inflict irreparable damage to the lens. Furthermore, it is prudent to employ a high-quality antifouling system to coat the external body of the device, thus preventing the accumulation of marine growth and extending its lifespan. Regular coating renewal is necessary to maintain the device in excellent condition.
