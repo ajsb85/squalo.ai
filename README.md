@@ -25,6 +25,9 @@ The Squalo AI camera device sends out this PGN; see the table below for the deta
 | Status 2 - Alarm|"On" - There is an alarm condition that means a shark was detected|
 | Status 3 … 28|Not used, reports as "Unavailable"|
 
+### System Startup Sync
+
+Once the Squalo AI system is powered on, the Camera Device will automatically transmit all instances to ensure that any third-party products already in use can sync their data registers with the startup state. This helps ensure a seamless and efficient experience for all users.
 
 ## Camera Enclosure Proposal
 
