@@ -18,6 +18,10 @@ Image for reference:
 
 ![TIX402-CAM-Angled](https://github.com/ajsb85/squalo.ai/assets/663460/ade02e4b-abb7-4650-836c-4e168a5ac803)
 
+## Camera Installation
+
+The N2K network has limited data bandwidth, and therefore, it does not support streaming video content. To connect Squalo AI, we recommend the network cable from Phoenix Contact part number 1407349 that uses the connector M8  (Coding: A / IP67) 
+
 ## Camera Enclosure Maintenance
 
 Maintaining the locking nut securely fastened is imperative; therefore, it is recommended to carry out periodic inspections. We advise a monthly assessment of the camera module and cable connections to ensure their optimal condition. The glass lens can be kept clean using a plastic scraper or a soft brush, while abrasive cloths or cleaning agents should be avoided, as they could inflict irreparable damage to the lens. Furthermore, it is prudent to employ a high-quality antifouling system to coat the external body of the device, thus preventing the accumulation of marine growth and extending its lifespan. Regular coating renewal is necessary to maintain the device in excellent condition.
