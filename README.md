@@ -12,6 +12,20 @@ The primary objective of this project is to refine the system's training to reco
 
 To address these challenges, an object detection system based on faster regions with convolutional neural networks has been proposed to detect shark species in real-time. The ResNet50 deep architecture serves as the feature extractor for model training. The developed shark detector has demonstrated impressive performance, with average scores of precision (0.82), recall (0.78), and accuracy (0.85) on experimental image and video datasets.
 
+## NMEA2000 Switch bank PGN definitions
+
+### Binary Status Report - PGN 127501 (0x1F20D)
+
+The Squalo AI camera device sends out this PGN; see the table below for the details.
+
+| Signal|Meaning|
+|:----|:----|
+| Bank Instance|Instance of the message, default value 0|
+| Status 1 - Solid State Relay|"On" - The relay on the camera is active, the contact is closed|
+| Status 2 - Alarm|"On" - There is an alarm condition that means a shark was detected|
+| Status 3 … 28|Not used, reports as "Unavailable"|
+
+
 ## Camera Enclosure Proposal
 
 Image for reference: 
@@ -28,7 +42,7 @@ To manage your camera's functionality (turn the device on and off), it is suppli
 
 Maintaining the locking nut securely fastened is imperative; therefore, it is recommended to carry out periodic inspections. We advise a monthly assessment of the camera module and cable connections to ensure their optimal condition. The glass lens can be kept clean using a plastic scraper or a soft brush, while abrasive cloths or cleaning agents should be avoided, as they could inflict irreparable damage to the lens. Furthermore, it is prudent to employ a high-quality antifouling system to coat the external body of the device, thus preventing the accumulation of marine growth and extending its lifespan. Regular coating renewal is necessary to maintain the device in excellent condition.
 
-### Certifications
+## Certifications
 
 The Squalio AI camera device will be certified by the National Marine Electronics Association and is designed for operation in an NMEA 2000 network. 
 
