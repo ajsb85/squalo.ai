@@ -6,6 +6,12 @@ The system for detecting and identifying sharks and other marine life and object
 
 [Ameba Pro 2](https://www.amebaiot.com/en/amebapro2/#rtk_amb82_mini) has the remarkable capabilities to make Squalo AI an advanced technology that incorporates cutting-edge image processing techniques and state-of-the-art image sensors to detect and classify objects. Moreover, they employ deep-learning neural networks to enhance the accuracy and efficiency of this process. The advancements in AI technology are awe-inspiring and hold potential for various applications.
 
+![image](https://github.com/ajsb85/squalo.ai/assets/663460/8e5ed5b7-b35d-4ed8-8595-0f0090ad99cc)
+
+The primary objective of this project is to refine the system's training to recognize great white sharks and hammerhead sharks in challenging conditions, such as murky water or unclear deep-sea conditions.
+
+To address these challenges, an object detection system based on faster regions with convolutional neural networks has been proposed to detect shark species in real-time. The ResNet50 deep architecture serves as the feature extractor for model training. The developed shark detector has demonstrated impressive performance, with average scores of precision (0.82), recall (0.78), and accuracy (0.85) on experimental image and video datasets.
+
 ## Academic Support
 
 I am an IEEE Member valued for +15 years and a member of the Oceanic Engineering Society (OES)
