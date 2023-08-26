@@ -11,8 +11,6 @@ I am an IEEE Member valued for +15 years and a member of the Oceanic Engineering
 OES members are engaged in all aspects of science, engineering, and technology that address research, development, and operations about all bodies of water. Members are encouraged to promote close cooperation and exchange of technical information while fostering technical and professional growth through access to periodicals, conference discounts, and professional networking.
 
 _Per ardua ad mare_
-(To the ocean, through hard work)
-
 
 ### Marine Technology Society
 The Marine Technology Society (MTS) promotes awareness, understanding, and the advancement and application of marine technology.
