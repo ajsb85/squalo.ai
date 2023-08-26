@@ -4,6 +4,8 @@
 
 The system for detecting and identifying sharks and other marine life and objects is imposing. Its advanced deep neural networks and image processing techniques efficiently distinguish and identify sharks from other targets. It can process dynamic video feeds and analyze static images with great precision. Moreover, the system has an onboard megaphone that provides an overhead warning to swimmers and surfers if a shark or potential risk is detected. This cutting-edge AI system will undoubtedly positively impact the public by making recreational boats and swimming much safer. 
 
+[Ameba Pro 2](https://www.amebaiot.com/en/amebapro2/#rtk_amb82_mini) has the remarkable capabilities to make Squalo AI an advanced technology that incorporates cutting-edge image processing techniques and state-of-the-art image sensors to detect and classify objects. Moreover, they employ deep-learning neural networks to enhance the accuracy and efficiency of this process. The advancements in AI technology are awe-inspiring and hold potential for various applications.
+
 ## Academic Support
 
 I am an IEEE Member valued for +15 years and a member of the Oceanic Engineering Society (OES)
