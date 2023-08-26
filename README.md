@@ -2,6 +2,7 @@
 
 ![logo](https://github.com/ajsb85/squalo.ai/assets/663460/c03e639b-8106-4a18-9724-87e7c4095699)
 
+The system for detecting and identifying sharks and other marine life and objects is imposing. Its advanced deep neural networks and image processing techniques efficiently distinguish and identify sharks from other targets. It can process dynamic video feeds and analyze static images with great precision. Moreover, the system has an onboard megaphone that provides an overhead warning to swimmers and surfers if a shark or potential risk is detected. This cutting-edge AI system will undoubtedly positively impact the public by making recreational boats and swimming much safer. 
 
 ## Academic Support
 
