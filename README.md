@@ -22,11 +22,15 @@ Image for reference:
 
 The N2K network has limited data bandwidth, and therefore, it does not support streaming video content. To connect Squalo AI, we recommend the network cable from Phoenix Contact part number 1407349 that uses the connector M8  (Coding: A / IP67).
 
-To manage the functionality of your camera, M12 connectors designed for N2K networks can be utilized to turn the device on and off. These connectors are widely available and offer user-friendly connectivity to the network. 
+To manage your camera's functionality (turn the device on and off), it is supplied with an NMEA 2000 Micro Male connector; the drop cable is not supplied with the device and should be purchased separately. For connection to the Raymarine SeaTalk NG network, use cables with Raymarine part numbers A06045 or A06075.
 
 ## Camera Enclosure Maintenance
 
 Maintaining the locking nut securely fastened is imperative; therefore, it is recommended to carry out periodic inspections. We advise a monthly assessment of the camera module and cable connections to ensure their optimal condition. The glass lens can be kept clean using a plastic scraper or a soft brush, while abrasive cloths or cleaning agents should be avoided, as they could inflict irreparable damage to the lens. Furthermore, it is prudent to employ a high-quality antifouling system to coat the external body of the device, thus preventing the accumulation of marine growth and extending its lifespan. Regular coating renewal is necessary to maintain the device in excellent condition.
+
+### Certifications
+
+The Squalio AI camera device will be certified by the National Marine Electronics Association and is designed for operation in an NMEA 2000 network. 
 
 ## Academic Support
 
