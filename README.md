@@ -1,4 +1,4 @@
-# Squalo AI
+# Squalo AI 🦈
 
 Shark Detection System
 
