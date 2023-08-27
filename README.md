@@ -31,9 +31,15 @@ Once the Squalo AI system is powered on, the Camera Device will automatically tr
 
 ## Camera Enclosure Proposal
 
-This is a reference picture for the enclosure; we plan to add ultra-wide, no-distortion lenses.
+This is a reference picture for the enclosure
 
 ![TIX402-CAM-Angled](https://github.com/ajsb85/squalo.ai/assets/663460/ade02e4b-abb7-4650-836c-4e168a5ac803)
+
+### Ultra-wide, no-distortion lenses
+
+Theia Technologies and their suite of rectilinear lenses offer an ultra-wide field of view without the barrel distortion or loss of edge resolution familiar with fisheye-style lenses. Their patented Linear Optical Technology creates multi-megapixel lenses that offer horizontal lots of view up to 135 degrees with very low distortion, making them ideal for shark detection and providing excellent peripheral vision.
+
+Theia offers a lens calculator that relates the field of view, resolution, and object distance to assist in the selection process. They also provide an image resolution simulator and white papers on their lens technology to help us better understand their products.
 
 ## Camera Installation
 
