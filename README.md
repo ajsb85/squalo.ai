@@ -31,7 +31,7 @@ Once the Squalo AI system is powered on, the Camera Device will automatically tr
 
 ## Camera Enclosure Proposal
 
-This is a reference picture for the enclosure; we plan to add an Ultra Wide Angle Lens.
+This is a reference picture for the enclosure; we plan to add ultra-wide, no-distortion lenses.
 
 ![TIX402-CAM-Angled](https://github.com/ajsb85/squalo.ai/assets/663460/ade02e4b-abb7-4650-836c-4e168a5ac803)
 
